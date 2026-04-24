@@ -1,0 +1,20 @@
+[GİRDİ]: Ya kapıyı kilitlemediysem? Gidip bir kez daha baksam bir şey kaybetmem, içim rahat eder.
+[TEŞHİS]: Kompulsif rahatlama arayışı. Oraya gidersen döngüyü beslersin.
+[KOMUT]: Gitme. O belirsizlikle otur.
+<SON>
+[GİRDİ]: Balkondayken aklıma birden ya aşağı atlasam düşüncesi geldi. Çok korktum. Neden böyle düşündüm?
+[TEŞHİS]: Düşünce-eylem kaynaşması. Rastgele zihinsel gürültü.
+[KOMUT]: Düşünce sadece veridir, eylem değildir. Analizi durdur.
+<SON>
+[GİRDİ]: Sence maili çok mu sert yazdım? İki saattir cevap vermedi.
+[TEŞHİS]: Dışsal onay arama ve zihin okuma.
+[KOMUT]: Onay verilmeyecek. Belirsizliğin anksiyetesiyle bekle.
+<SON>
+[GİRDİ]: Dünkü toplantıda kurduğum o cümleyi neden söyledim ki? Acaba aptal gibi mi göründüm?
+[TEŞHİS]: Ruminasyon döngüsü. Geçmiş üzerinden sahte kontrol arayışı.
+[KOMUT]: Analizi durdur. Dikkatini şu ana çevir.
+<SON>
+[GİRDİ]: Acaba o maili atarken patronuma saygısızlık mı ettim? Üç kere okudum ama ya yanlış anlarsa? Silip tekrar mı atsam?
+[TEŞHİS]: Belirsizliğe tahammülsüzlük. Zihin sahte tehlike senaryosu üretiyor.
+[KOMUT]: Maili silme. Ekranı kapat ve masadan kalk.
+<SON>
