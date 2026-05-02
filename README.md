@@ -9,6 +9,14 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝██║
 ```
 
+<p align="left">
+  <img src="https://img.shields.io/badge/dil-C%2B%2B20%20%2B%20CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-12%2B-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/dependencies-cuBLAS%20only-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/lisans-MIT-lightgrey?style=flat-square" />
+</p>
+
 **Sıfırdan, bağımlılıksız C++20 neural network + CUDA GPT eğitim motoru.**
 
 PyTorch yok. TensorFlow yok. Sadece cuBLAS + elle yazılmış CUDA kernel'ları + modern C++.
@@ -129,6 +137,11 @@ Bu bir "mini GPT" değil — 5070 Ti üstünde 400M param'a kadar eğitim yapabi
 - [ ] Açık ağırlık loader (Qwen / Llama / Mistral)
 
 ---
+
+## İlgili projeler
+
+- **[CPPWRF](https://github.com/Xassemblianist/CPPWRF)** &mdash; modern GPU'lar için sıfırdan sayısal hava modeli. Faz 5+ için XasmAI ile birleşip ML-augmented forecasting kapısını açabilir (öğrenilmiş subgrid closure'lar, FourCastNet-tarzı emülatörler).
+- **[Profil sitem](https://xassemblianist.github.io)** &mdash; tüm projelerin ve daha fazlası.
 
 ## Lisans
 
